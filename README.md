@@ -1,7 +1,6 @@
-# 🚀 Programming Practice Repository
+# 🚀 Programming Practice
 
-Welcome to my daily programming practice repo!  
-Here, I regularly solve coding problems and practice different programming languages to improve my skills.
+This repository contains my daily practice code in various languages.
 
 ---
 
@@ -11,11 +10,11 @@ Here, I regularly solve coding problems and practice different programming langu
 - 💻 C++  
 - ☕ Java  
 - 🐍 Python  
-- 📘 DSA (Data Structures & Algorithms)
+- 📘 DSA
 
 ---
 
-## 📅 Daily Progress Tracker
+## 📅 Daily Progress
 
 | Day | Task |
 |-----|------|
@@ -23,7 +22,8 @@ Here, I regularly solve coding problems and practice different programming langu
 | ✅ Day 2 | Add Two Numbers |
 | ✅ Day 3 | Bank Account Program in Java |
 | ✅ Day 4 | Prime Number Check in Python |
-| ✅ Day 5 | Java - Sum of Two Numbers without using Third Variable |
+| ✅ Day 5 | Java - Sum of Two Numbers without Using Third Variable |
+| ✅ Day 6 | Java - Check if a Number is Even or Odd |
 
 ---
 
@@ -38,11 +38,12 @@ Here, I regularly solve coding problems and practice different programming langu
 
 ## 📌 Upcoming Plans
 
-- [ ] Start Leetcode DSA questions  
-- [ ] Build mini projects  
-- [ ] Explore OOPs in Java  
-- [ ] Try competitive programming platforms  
+- [ ] Solve Leetcode questions  
+- [ ] Mini Java/Python projects  
+- [ ] Explore Object-Oriented Programming  
+- [ ] Try competitive coding platforms  
 
 ---
 
-**Thanks for visiting!** If you like this repo, don’t forget to star it!
+**Thanks for checking out my repository!**  
+Don’t forget to ⭐ star it if you find it interesting.
