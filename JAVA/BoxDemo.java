@@ -17,4 +17,4 @@ import javax.swing.*;
             BoxDemo demo = new BoxDemo();
             demo.boxDemo();
         }
-    }        
+}        
