@@ -25,7 +25,9 @@ This repository contains my daily practice code in various languages.
 | ✅ Day 5 | Java - Sum of Two Numbers without Using Third Variable |
 | ✅ Day 6 | Java - Check if a Number is Even or Odd                |
 | ✅ Day 7 | Java - GUI with BoxLayout and Buttons (Swing)          |
-| ✅ Day 8 | C - Array Insertion and Deletion                        |
+| ✅ Day 8 | C - Array Insertion and Deletion     
+| ✅ Day 9 | Java - Square of a Number Program                      |
+| ✅ Day 9 | Java - Square of a Number Program                      |                   |
 
 ---
 
