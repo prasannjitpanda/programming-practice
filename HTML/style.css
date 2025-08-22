@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: aliceblue;
+    padding-left: 200px;
+    height: 35px;
+}
+h4{
+    padding-top: 6px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    /* color: black; */
+}
+ a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    text-align: center;
+}
+p a{
+    color: #4f4ff4;
+}
+/* h1{
+    text-align: center;
+}h2{
+    text-align: center;
+}
+#btn{
+    text-align: center;
+} */
+ .iPhone{
+    text-align: center;
+    background-color: aliceblue;
+    height: 600px;
+    background-image: url(https://cdn.pixabay.com/photo/2022/09/25/22/25/iphones-7479304_1280.jpg);
+
+ }
+ .iPhone h1{
+    font-size: 40px;
+ }
+ #btn-1{
+    border-radius: 20px;
+    padding: 10px;
+    background-color:  #4f4ff4;
+    color: white;
+ }
+ #btn-2{
+    border-radius: 20px;
+    padding: 10px;
+    color: blue;
+ }
+ #btn-2:hover{
+    background-color:rgb(61, 61, 213) ;
+    color: white;
+ }
+.page2{
+    text-align: center;
+    background-color: azure;
+    height: 600px;
+    background-image: url(https://cdn.pixabay.com/photo/2016/10/11/09/26/office-1730939_1280.jpg);
+    /* margin-top: 0px; */
+}
+#btn-3{
+     border-radius: 20px;
+    padding: 10px;
+    background-color:  #4f4ff4;
+    color: white;
+}
+ #btn-4{
+    border-radius: 20px;
+    padding: 10px;
+    color: blue;
+ }
+  #btn-4:hover{
+    background-color:rgb(61, 61, 213) ;
+    color: white;
+ }
+ .page3{
+    text-align: center;
+    background-color: azure;
+    height: 600px;
+    background-image: url(https://cdn.pixabay.com/photo/2015/05/07/13/43/watch-756487_1280.jpg);
+    margin: 2px;
+}
+#btn-5{
+     border-radius: 20px;
+    padding: 10px;
+    background-color:  #4f4ff4;
+    color: white;
+}
+ #btn-6{
+    border-radius: 20px;
+    padding: 10px;
+    color: blue;
+ }
+  #btn-6:hover{
+    background-color:rgb(61, 61, 213) ;
+    color: white;
+ }
+
+  .page4{
+    text-align: center;
+    background-color: azure;
+    height: 600px;
+    background-image: url(https://cdn.pixabay.com/photo/2015/03/22/15/39/ipad-684761_1280.jpg);
+    margin: 2px;
+}
+#btn7{
+     border-radius: 20px;
+    padding: 10px;
+    background-color:  #4f4ff4;
+    color: white;
+}
+ #btn-8{
+    border-radius: 20px;
+    padding: 10px;
+    color: blue;
+ }
+  #btn-8:hover{
+    background-color:rgb(61, 61, 213) ;
+    color: white;
+ }
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+ }
